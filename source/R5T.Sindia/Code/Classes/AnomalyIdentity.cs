@@ -3,7 +3,7 @@
 using R5T.Guide;
 
 
-namespace R5T.Sindia.Code.Classes
+namespace R5T.Sindia
 {
     public class AnomalyIdentity : TypedGuid
     {
